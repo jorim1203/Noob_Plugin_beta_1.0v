@@ -1,0 +1,6 @@
+name: NOOB_Plugin
+version: '1.0-SNAPSHOT'
+main: for_noob_plugin.noob_plugin.NOOB_Plugin
+api-version: 1.18
+commands:
+  noob:
